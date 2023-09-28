@@ -1,0 +1,670 @@
+{
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Oshi no Ko pack 1",
+      "publisher": "RTX",
+      "tray_image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/tray.png",
+      "publisherEmail": "tenkerappsrel@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.sanrio.stickersapp",
+      "publisher_website": "https://t.me/addstickers/Oshi_no_Ko",
+      "privacy_policy_website": "https://sites.google.com/view/rtx-privacy-policy",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/14.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/15.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/16.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/17.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/18.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/19.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/1/20.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Oshi no Ko pack 2",
+      "publisher": "RTX",
+      "tray_image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/tray.png",
+      "publisherEmail": "tenkerappsrel@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.sanrio.stickersapp",
+      "publisher_website": "https://t.me/addstickers/Oshi_no_Ko",
+      "privacy_policy_website": "https://sites.google.com/view/rtx-privacy-policy",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/14.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/15.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/16.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/17.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/18.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/19.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/2/20.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Oshi no Ko pack 3",
+      "publisher": "RTX",
+      "tray_image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/tray.png",
+      "publisherEmail": "tenkerappsrel@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.sanrio.stickersapp",
+      "publisher_website": "https://t.me/addstickers/Oshi_no_Ko",
+      "privacy_policy_website": "https://sites.google.com/view/rtx-privacy-policy",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/14.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/15.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/16.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/17.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/18.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/19.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/3/20.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Oshi no Ko pack 4",
+      "publisher": "RTX",
+      "tray_image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/tray.png",
+      "publisherEmail": "tenkerappsrel@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.sanrio.stickersapp",
+      "publisher_website": "https://t.me/addstickers/OshiNoKoBestPack",
+      "privacy_policy_website": "https://sites.google.com/view/rtx-privacy-policy",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/14.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/15.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/16.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/17.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/18.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/19.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/4/20.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Oshi no Ko pack 5",
+      "publisher": "RTX",
+      "tray_image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/tray.png",
+      "publisherEmail": "tenkerappsrel@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.sanrio.stickersapp",
+      "publisher_website": "https://t.me/addstickers/OshiNoKoBestPack",
+      "privacy_policy_website": "https://sites.google.com/view/rtx-privacy-policy",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/14.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/15.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/16.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/17.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/18.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/19.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/5/20.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Oshi no Ko pack 6",
+      "publisher": "RTX",
+      "tray_image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/tray.png",
+      "publisherEmail": "tenkerappsrel@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.sanrio.stickersapp",
+      "publisher_website": "https://t.me/addstickers/OshiNoKoBestPack",
+      "privacy_policy_website": "https://sites.google.com/view/rtx-privacy-policy",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/14.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/15.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/16.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/17.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/18.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/19.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/6/20.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Oshi no Ko pack 7",
+      "publisher": "RTX",
+      "tray_image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/tray.png",
+      "publisherEmail": "tenkerappsrel@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.sanrio.stickersapp",
+      "publisher_website": "https://t.me/addstickers/OshiNoKoBestPack",
+      "privacy_policy_website": "https://sites.google.com/view/rtx-privacy-policy",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/14.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/15.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/16.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/17.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/18.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/19.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/20.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/21.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/iamisme/arima_kana/main/7/22.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    }
+  ]
+}
